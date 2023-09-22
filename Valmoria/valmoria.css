@@ -1,0 +1,32 @@
+/* CSS DOCUMENT */
+
+h1{
+	color:navy blue;
+	text-align: center;
+	font-size: 2.5em;
+	font-family:"Times New Roman", Times, serif;
+	background-color: lightblue;
+}
+p{
+	color:black;
+	font-size: 1.3em;
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+}
+a{
+	color:black;
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul li{
+	font-size: 1.2em;
+	font-family:"Times New Roman", Times, serif;
+{
+body{
+	background-color: blue;
+}	

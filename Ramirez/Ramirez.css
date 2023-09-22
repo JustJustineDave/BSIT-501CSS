@@ -1,0 +1,81 @@
+h1 {
+color: rgb(0, 0, 0);
+text-align: center;
+font-size: 7vh;
+font-family: monospace;
+padding: auto;
+}
+hr{
+    color: black;
+    width: auto;
+    line-height: normal;
+}
+.parentDiv {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parentDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parentDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 40px;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: auto;
+}
+
+th {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+strong {
+    color: blue;
+}
+b {
+    color: blue;
+}
+em {
+    color: blue;
+}
+td {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+div.specs {
+    text-align: center;
+    padding: 10px;
+}
+ul.daspeks {
+    display: inline-block;
+    text-align: left;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}

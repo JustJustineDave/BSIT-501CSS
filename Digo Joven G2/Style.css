@@ -1,0 +1,127 @@
+.main{
+	 background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%),url(pic/wall.jpg); 
+    background-position: center;
+    background-size: cover;
+	width:200vh;
+	height:800vh;
+}
+ 
+.header{
+	width: 200vh;
+    text-align:center;
+    height:20vh;
+}
+.style:hover{
+	color:violet;
+}
+.gif{
+	
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:700px;
+	height:300px;
+}
+h1{
+	font-size:100px;
+	font-family:garamond,Helvetica, sans-serif;
+	float:center;
+	color:white;
+	padding:5px;
+	border:5px solid white;
+}
+p{
+	color:white;
+	font-weight:bold;
+	font-size:23px;
+	font-family:garamond,Helvetica, sans-serif;
+	text-align:center;
+}
+h2{
+	color:white;
+	font-size:30px;
+	font-family:garamond,Helvetica, sans-serif;
+	font-weight:bold;
+	text-align:center;
+	
+}
+h3{
+	color:white;
+	font-size:40px;
+	font-family:garamond,Helvetica, sans-serif;
+	font-weight:bold;
+	text-align:center;
+}
+.center{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;	
+	width:50%;
+	}
+.list{
+	text-align:center;
+}
+ul.myList{
+	 display: inline-block;
+	text-align: left;
+	margin:5px;
+	font-size:20px;
+	font-family:san francisco,Helvetica, sans-serif;
+	color:white;
+	font-weight:bold;
+}
+.linecenter{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;
+}
+.dynamic{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;	
+	width:30%;
+}
+.camera{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;	
+	width:30%;
+}
+.portrait{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;	
+	width:30%;
+}
+.battery{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;	
+	width:30%;
+}
+.port{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;	
+	width:30%;
+}
+.last{
+	color:white;
+	float:left;
+	text-align:left;
+}
+div h4{
+	font-size:24px;
+}
+div a .apple{
+	width:50px;
+	height:50px;
+}
+div a .fb{
+	width:50px;
+	height:50px
+}
+div a .ig{
+	width:50px;
+	height:50px
+	}

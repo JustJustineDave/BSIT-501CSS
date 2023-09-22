@@ -1,0 +1,26 @@
+h1,h2, h3{
+	color: red
+}
+h5{
+	color:indigo;
+	font-size:15px
+}
+p{
+	color: purple;
+	font-family:helvetica
+}
+.MyFirstp{
+	color: lightblue;
+	font-size: 20px;
+}	
+.Mysecondp{
+	color:orange;
+	font-size: 25px;
+}
+.Mythirdp{
+	font-family:arial;
+	font-size:25px;
+	background-color:green;
+	padding:50px;
+	font-weight: bold
+}

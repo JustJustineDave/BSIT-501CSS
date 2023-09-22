@@ -1,0 +1,53 @@
+body{
+	margin:0;
+	font-family: sans-serif;
+	background-color: #fff5d7;
+}
+p {
+	color: #7f675b;
+}
+
+h2 {
+	color:#907564;
+}
+
+h3 {
+	color: #7f675b;
+}
+
+
+
+
+{ margin: 0;
+padding: 0;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	
+}
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 4px 20px;
+	border: 2px solid black;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color:black;
+	color:white;
+}
+
+
+h1 {
+	color: #B7410E;
+}
+
+
+
