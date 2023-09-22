@@ -1,0 +1,175 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	line-height: 1.5;
+}
+a:hover {
+	color:red;
+}
+
+.myFirst {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 50px;
+}
+h1.one {
+	font-family: times new roman;
+	font-size: 40px;
+}
+h3 {
+	font-family: arial; 
+	font-style: lighter;
+}
+
+.mySecond {
+	font-family: arial;
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	text-indent: 50px;
+}
+
+.myThird {
+	text-align: center;
+	padding: 50px;
+}
+#image {
+	width: 1200px;
+	height: 442px;
+}
+p.a {
+	font-family: arial;
+	font-size: 24px;	
+}
+
+.plus {
+	margin-left: 250px;
+	font-family: arial;
+	font-size: 24px;
+	font-weight: bold;
+	font-stretch: condensed;
+}
+
+
+.row {
+	padding-top: 50px;
+	display: flex;
+}
+.column {
+	flex: 30%;
+	padding: 0px;
+}
+.column:hover img {
+	transform: scale(1.5);
+}
+
+.myFour {
+	font-family: arial;
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	text-indent: 50px;
+	padding: 50px;
+}
+
+.myFive {
+	background-color: black;
+	color: white;
+	font-family: arial;
+	padding: 50px;
+}
+#pic {
+	margin-left: 350px;
+	width: 1200px;
+	height: 518px;
+}
+.pro {
+	margin-left: 250px;
+	font-size: 24px;
+	font-weight: bold;
+	font-stretch: condensed;
+}
+
+h1.two {
+	text-align: center;
+	font-size: 36px;
+}	
+p.b {
+	text-align: center;
+	font-size: 24px;
+}
+
+.container {
+	padding: 50px;
+	display: flex;
+	text-align:center;
+}
+.columnn {
+	flex: 30%;
+	padding: 5px;
+}
+
+.columnn:hover img {
+	transform: scale(1.5);
+}
+
+
+p.c {
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#pro {
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+p.d {
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+p.e {
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.mySix {
+	font-family: arial sans-serif;
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 50px;
+}
+
+#prices {
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-collapse: collapse;
+	width: 75%;
+}
+#prices td, #prices th {
+	border: 1px solid;
+	padding: 8px;
+}
+#prices tr:nth-child(even) {
+	background-color: gray;
+}
+#prices th {
+	text-align: left;
+	background-color: black;
+	color: white;
+}
+
+.mySeven {
+	background-color: black;
+	text-align: center;
+}
