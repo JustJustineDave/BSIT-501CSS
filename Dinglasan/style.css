@@ -3,6 +3,11 @@ body{
 	font-family: sans-serif;
 	background-color: #fff5d7;
 }
+
+img {
+	display:block;
+}
+
 p {
 	color: #7f675b;
 }
